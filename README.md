@@ -90,27 +90,27 @@ I'm a **Data Scientist / ML Engineer** who loves turning messy, real-world data 
 ### 🤖 [AI Career Mentor — RAG Chatbot "Alex"](https://ai-career-mentor-9xhvufgb2aksdg3jlknptm.streamlit.app/)
 A Retrieval-Augmented Generation chatbot that acts as a personalized career mentor, using FAISS vector search and MiniLM embeddings for retrieval, powered by Groq's LLaMA 3.3 70B for generation.
 **Tech Stack:** Python, FAISS, MiniLM Embeddings, Groq (LLaMA 3.3 70B), Streamlit
-🔗 **Live Demo:** [Launch App](https://ai-career-mentor-9xhvufgb2aksdg3jlknptm.streamlit.app/) &nbsp;|&nbsp; 💻 GitHub: <!-- 🔧 Add repo link -->
+🔗 **Live Demo:** [Launch App](https://ai-career-mentor-9xhvufgb2aksdg3jlknptm.streamlit.app/) &nbsp;|&nbsp; 💻 **GitHub:** [Repo](https://github.com/madasipallavi245-jpg/ai-career-mentor)
 
 ### 📉 [Revenue Leakage Detection System](https://revenue-leakage-detector-fdhjfe57xck4qnp4mpx9ge.streamlit.app/)
 An anomaly detection system built on ~98,900 Brazilian e-commerce orders to catch a rare (0.25%) revenue leakage pattern, using an ensemble approach including a Variational Autoencoder (VAE) tuned to 100% recall.
 **Tech Stack:** Python, Scikit-learn, VAE, Ensemble Modeling, Streamlit
-🔗 **Live Demo:** [Launch App](https://revenue-leakage-detector-fdhjfe57xck4qnp4mpx9ge.streamlit.app/) &nbsp;|&nbsp; 💻 GitHub: <!-- 🔧 Add repo link -->
+🔗 **Live Demo:** [Launch App](https://revenue-leakage-detector-fdhjfe57xck4qnp4mpx9ge.streamlit.app/) &nbsp;|&nbsp; 💻 **GitHub:** [Repo](https://github.com/madasipallavi245-jpg/Revenue-Leakage-Detector)
 
 ### 📞 [Telecom Customer Churn Prediction](https://telecom-churn-predictor-frerjdjk4xqsdjqppjeh27.streamlit.app/)
 A churn prediction model (LightGBM, AUC 0.891) tuned via Bayesian Optimization (Optuna), paired with a 4-page Power BI dashboard for business stakeholders.
 **Tech Stack:** Python, LightGBM, Optuna, Power BI, Streamlit
-🔗 **Live Demo:** [Launch App](https://telecom-churn-predictor-frerjdjk4xqsdjqppjeh27.streamlit.app/) &nbsp;|&nbsp; 💻 GitHub: <!-- 🔧 Add repo link -->
+🔗 **Live Demo:** [Launch App](https://telecom-churn-predictor-frerjdjk4xqsdjqppjeh27.streamlit.app/) &nbsp;|&nbsp; 💻 **GitHub:** [Repo](https://github.com/madasipallavi245-jpg/telecom-churn-predictor)
 
 ### 📰 [Fake News Detection](https://fake-news-predictor-xkb99qxnjhwwyzczmclstd.streamlit.app/)
 A comparative study between classical TF-IDF and DistilBERT-based approaches for detecting fake news, including identification and correction of a data leakage issue during model validation.
 **Tech Stack:** Python, TF-IDF, DistilBERT, NLTK, Streamlit
-🔗 **Live Demo:** [Launch App](https://fake-news-predictor-xkb99qxnjhwwyzczmclstd.streamlit.app/) &nbsp;|&nbsp; 💻 GitHub: <!-- 🔧 Add repo link -->
+🔗 **Live Demo:** [Launch App](https://fake-news-predictor-xkb99qxnjhwwyzczmclstd.streamlit.app/) &nbsp;|&nbsp; 💻 **GitHub:** [Repo](https://github.com/madasipallavi245-jpg/Fake-News-Predictor)
 
 ### 🎯 [Lead Scoring / Conversion Prediction](https://lead-conversion-scorer-n6qhzrfat2cgvigopy5km3.streamlit.app/)
 An XGBoost-based lead scoring classifier that segments prospects into Hot/Warm/Cold tiers to help sales teams prioritize outreach.
 **Tech Stack:** Python, XGBoost, Streamlit
-🔗 **Live Demo:** [Launch App](https://lead-conversion-scorer-n6qhzrfat2cgvigopy5km3.streamlit.app/) &nbsp;|&nbsp; 💻 GitHub: <!-- 🔧 Add repo link -->
+🔗 **Live Demo:** [Launch App](https://lead-conversion-scorer-n6qhzrfat2cgvigopy5km3.streamlit.app/) &nbsp;|&nbsp; 💻 **GitHub:** [Repo](https://github.com/madasipallavi245-jpg/Lead-Conversion-Scorer)
 
 ---
 
@@ -162,3 +162,5 @@ When you're ready, you can add it back like this:
 </p>
 
 <p align="center"><i>Thanks for stopping by — let's connect! ✨</i></p>
+
+
